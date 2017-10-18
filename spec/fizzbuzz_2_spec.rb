@@ -10,4 +10,7 @@ describe 'fizzbuzz' do
   it 'returns fizz when 5' do
     expect(5.fizzbuzz).to eq 'buzz'
   end
+  it 'returns fizzbuzz when 15' do
+    expect(15.fizzbuzz).to eq 'fizzbuzz'
+  end
 end
