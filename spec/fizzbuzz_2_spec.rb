@@ -13,4 +13,7 @@ describe 'fizzbuzz' do
   it 'returns fizzbuzz when 15' do
     expect(15.fizzbuzz).to eq 'fizzbuzz'
   end
+  it 'returns 1 when 1' do
+    expect(1.fizzbuzz).to eq 1
+  end
 end
