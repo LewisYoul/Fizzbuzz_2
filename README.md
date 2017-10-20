@@ -2,7 +2,7 @@
 
 ## General Description
 
-Fizzbuzz is a game that returns a differen't output depending on the number that is passed in.
+Fizzbuzz is a game that returns a different output depending on the number that is passed in.
 This is the second incarnation of the Makers Academy Pre-Course Fizzbuzz Challenge.
 This program is written to pass differen't TDD tests to the original challenge.
 Both [Fizzbuzz](https://github.com/LewisYoul/fizzbuzz) and [Fizzbuzz_2](https://github.com/LewisYoul/Fizzbuzz_2) are my first programs written using Test Driven Development (TDD), collaborated on with [Jamie LeMercier](https://github.com/ethicalDev).
